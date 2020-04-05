@@ -1,0 +1,9 @@
+.horizontal { display: flex; margin-bottom: 5px; }
+
+p.cuadro { width: 200px; border: black 1px solid; margin: 2px; }
+
+.cuadro2 { width: 100px; border: black 1px solid; margin: 2px; }
+
+.vertical { display: flex; flex-direction: column; }
+
+hr{ border: black 2px solid; margin-right: 1000px;}
